@@ -1,0 +1,227 @@
+{
+  "ivacbd.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "gmail.com": {
+    "total": 26,
+    "valid": 0,
+    "invalid": 26,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 26
+    }
+  },
+  "managewell.com.bd": {
+    "total": 4,
+    "valid": 0,
+    "invalid": 4,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 4
+    }
+  },
+  "ascent-bd.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "presidency.ac.bd": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "aprenergy.com": {
+    "total": 2,
+    "valid": 0,
+    "invalid": 2,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 2
+    }
+  },
+  "brainwareuniversity.ac.in": {
+    "total": 14,
+    "valid": 0,
+    "invalid": 14,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 14
+    }
+  },
+  "united.com.bd": {
+    "total": 4,
+    "valid": 0,
+    "invalid": 4,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 4
+    }
+  },
+  "technoindiauniversity.ac.in": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "du.ac.bd": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "itranstion.com": {
+    "total": 2,
+    "valid": 0,
+    "invalid": 2,
+    "methods": {},
+    "reasons": {
+      "DNS error: (4, 'Domain name not found')": 2
+    }
+  },
+  "sc.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "everllence.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "hgspro.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "ims.net.bd": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "yahoo.com": {
+    "total": 2,
+    "valid": 0,
+    "invalid": 2,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 2
+    }
+  },
+  "mea.gov.in": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "dotbirth.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "bombaysweets-bd.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "gmail.coms": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "DNS error: (4, 'Domain name not found')": 1
+    }
+  },
+  "aiub.edu": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "vit.ac.in": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "gamil.com": {
+    "total": 3,
+    "valid": 0,
+    "invalid": 3,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 3
+    }
+  },
+  "avidgroup.org": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  },
+  "webguru-india.com": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 1,
+    "methods": {},
+    "reasons": {
+      "SMTP verification completed": 1
+    }
+  }
+}

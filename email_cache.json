@@ -1,0 +1,492 @@
+{
+  "royayon@gmail.coms": {
+    "status": "invalid",
+    "reason": "No MX records found",
+    "method": "mx",
+    "score": 0,
+    "details": {}
+  },
+  "hr@itranstion.com": {
+    "status": "invalid",
+    "reason": "No MX records found",
+    "method": "mx",
+    "score": 0,
+    "details": {}
+  },
+  "hr@aiub.edu": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.130] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.130 AS(1440) [SG2PEPF000B66CE.apcprd03.prod.outlook.com 2025-09-05T09:51:51.456Z 08DDEBD330514A19]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "visahelp@ivacbd.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.190] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.190 AS(1440) [OSA0EPF000000C9.apcprd02.prod.outlook.com 2025-09-05T09:51:51.745Z 08DDEB96D733D055]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "nusrat.mouri@everllence.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.181] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.181 AS(1440) [AM2PEPF0001C715.eurprd05.prod.outlook.com 2025-09-05T09:51:52.431Z 08DDEC26F8262B8F]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "iqbalhassan739275@yahoo.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "raqeeb.haider@united.com.bd": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "rasel.hossen@united.com.bd": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "naser.cepz@united.com.bd": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "p.lebedev@itranstion.com": {
+    "status": "invalid",
+    "reason": "No MX records found",
+    "method": "mx",
+    "score": 0,
+    "details": {}
+  },
+  "hr.outsourcing@ims.net.bd": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "shafiqulislam561@gamil.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "ayonroy014@gmail.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b\"5.1.1 The email account that you tried to reach does not exist. Please try\\n5.1.1 double-checking the recipient's email address for typos or\\n5.1.1 unnecessary spaces. For more information, go to\\n5.1.1  https://support.google.com/mail/?p=NoSuchUser d9443c01a7336-24c894f43b7si54589935ad.665 - gsmtp\"",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "arbor.ai.studio+career@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b5216b3df5csi309863a12.550 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "sharmilamojumder199@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-772368317cdsi12910317b3a.690 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "rajmallick355@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24cce554a75si27527305ad.601 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "nurenterp@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24c829d909csi59608565ad.491 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "rubel.alfa71@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f72eeb5d9si10025821a12.605 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "aditaroy@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b5170f87c2csi1851433a12.322 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "nirob.aust53@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 98e67ed59e1d1-32b9f1c13casi2659054a91.75 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "rahaider040@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f807d6b9esi8957769a12.1020 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "loknathbaba2010@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24b17657206si69488715ad.625 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "yousuf.upgd@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24b16990230si74021735ad.433 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "karimuddin.ctg@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4cd28ae94csi13557163a12.316 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "jobs@ascent-bd.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "career@dotbirth.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.171] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.171 AS(1440) [TY2PEPF0000AB85.apcprd03.prod.outlook.com 2025-09-05T09:51:55.005Z 08DDE77BBCA58CC5]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "debaleena.reg@brainwareuniversity.ac.in": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.2.1 The email account that you tried to reach is inactive. For more\\n5.2.1 information, go to\\n5.2.1  https://support.google.com/mail/?p=DisabledUser 41be03b00d2f7-b4cd36717easi13403254a12.957 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "antiragging@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4dc2459b42si11976968a12.1098 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "sb.acoe@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f7a5f48d9si9472223a12.552 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "shariful@managewell.com.bd": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4cd3c48f95si13076309a12.1164 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "zahurul@managewell.com.bd": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4e6b91f6easi10850072a12.1277 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "reynando.andres@aprenergy.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.158] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.158 AS(1440) [DS2PEPF0000343B.namprd02.prod.outlook.com 2025-09-05T09:51:55.614Z 08DDEACFE79B7E04]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "yasindra.perera@aprenergy.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.158] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.158 AS(1440) [DS2PEPF0000343C.namprd02.prod.outlook.com 2025-09-05T09:51:55.603Z 08DDEB1CA851EC3B]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "career@avidgroup.org": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24b230ba5cfsi71848605ad.77 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "reena@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f049cb16asi9861691a12.441 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "bwumca23014@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24ce67e5271si21052895ad.303 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "bwumen23004@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f9ad59655si5668201a12.864 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "international@vit.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24b2b197bffsi63662715ad.729 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "gm.cs@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-7722a7aca5fsi15389097b3a.805 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "bwumen23014@brainwareuniversity.ac.in": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b\"5.1.1 The email account that you tried to reach does not exist. Please try\\n5.1.1 double-checking the recipient's email address for typos or\\n5.1.1 unnecessary spaces. For more information, go to\\n5.1.1  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-7722a4df43csi15256390b3a.241 - gsmtp\"",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "towhidul.islam@sc.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "enquiry@webguru-india.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-7722a50194fsi14642592b3a.450 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "sb.sro@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-7725b68e762si10240085b3a.29 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "foreignadmission@technoindiauniversity.ac.in": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "visa.chittagong@mea.gov.in": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "rahul@yahoo.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "career@bombaysweets-bd.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "zen.electronics.computer@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 98e67ed59e1d1-327e0873228si15873413a91.10 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "wyiwiwyeuwiiw@gmail.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.2.1 The email account that you tried to reach is inactive. For more\\n5.2.1 information, go to\\n5.2.1  https://support.google.com/mail/?p=DisabledUser 41be03b00d2f7-b4f9ccb1391si5647922a12.853 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "pujadey.pd97@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 98e67ed59e1d1-32b35fa6cd5si6891066a91.20 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "sharnilamojumder199@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 98e67ed59e1d1-329f25cd8d2si7113773a91.40 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "bimalng2020@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4ccf79abd6si13294541a12.12 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "bwumen23005@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24cb3a6d035si40662435ad.715 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "sharmila9620@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f930e2ef0si7144292a12.324 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "biplab1456@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-24b1449d3c4si72636765ad.485 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "mojumdersharmila@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d9443c01a7336-249065b73fdsi161575735ad.551 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "sadeq@managewell.com.bd": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-7722a7da029si15437487b3a.928 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "hod.men@brainwareuniversity.ac.in": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b\"5.1.1 The email account that you tried to reach does not exist. Please try\\n5.1.1 double-checking the recipient's email address for typos or\\n5.1.1 unnecessary spaces. For more information, go to\\n5.1.1  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-b4f976a3cf9si6571126a12.120 - gsmtp\"",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "shb.cs@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4e72462daasi10564347a12.360 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "123@gamil.com": {
+    "status": "invalid",
+    "reason": "SMTP code 554: b'\"Refused. You have no reverse DNS entry. Contact abuse@suresupport.com for details.\"'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "recruitment@presidency.ac.bd": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b'5.7.1 Service unavailable, Client host [103.115.24.190] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/103.115.24.190 AS(1440) [OSA0EPF000000C7.apcprd02.prod.outlook.com 2025-09-05T09:51:59.450Z 08DDE78F9A2BD20D]'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "test@gmail.com": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b\"5.1.1 The email account that you tried to reach does not exist. Please try\\n5.1.1 double-checking the recipient's email address for typos or\\n5.1.1 unnecessary spaces. For more information, go to\\n5.1.1  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-7722a74ed86si14368717b3a.624 - gsmtp\"",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "mamun@managewell.com.bd": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4f7a5f48d9si9472278a12.552 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "shohanenterprise555@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-7722a7cbe28si14552989b3a.876 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "info@hgspro.com": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "bwu@gamil.com": {
+    "status": "invalid",
+    "reason": "SMTP code 554: b'\"Refused. You have no reverse DNS entry. Contact abuse@suresupport.com for details.\"'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "arushimojumder@gmail.com": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK 41be03b00d2f7-b4cd28b3a7dsi13558585a12.482 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "hilton.biswas@united.com.bd": {
+    "status": "unknown",
+    "reason": "SMTP connection failed",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "register@brainwareuniversity.ac.in": {
+    "status": "invalid",
+    "reason": "SMTP code 550: b\"5.1.1 The email account that you tried to reach does not exist. Please try\\n5.1.1 double-checking the recipient's email address for typos or\\n5.1.1 unnecessary spaces. For more information, go to\\n5.1.1  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-b4cd2f99d1esi13354775a12.674 - gsmtp\"",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  },
+  "ipsita.reg@brainwareuniversity.ac.in": {
+    "status": "valid",
+    "reason": "SMTP code 250: b'2.1.5 OK d2e1a72fcca58-7722a738f30si15605348b3a.592 - gsmtp'",
+    "method": "smtp",
+    "score": 0,
+    "details": {}
+  }
+}

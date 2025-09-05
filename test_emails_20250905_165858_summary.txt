@@ -1,0 +1,11 @@
+Email Verification Summary
+=========================
+
+Total emails processed: 74
+Valid emails: 0
+Invalid emails: 74
+Success rate: 0.0%
+
+Verification Methods:
+  smtp: 71 emails
+  mx: 3 emails
